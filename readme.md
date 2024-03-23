@@ -1,8 +1,10 @@
 # Sobre mim
-Eu me chamo <sub>Pâmela</sub>, mas pode me chamar de <sub>Pam</sub>, tenho 28 anos e sou * *mãe de Helena Blue* *, somos de Manaus/Amazonas, mas atualmente vivemos em Florianópolis.
+Eu me chamo '#000000 Pâmela', mas pode me chamar de <sub>Pam</sub>, tenho 28 anos e sou * *mãe de Helena Blue* *, somos de Manaus/Amazonas, mas atualmente vivemos em Florianópolis.
 > (uma longa & dramática história, uma mistura de picolé de limão & dos limões que a vida dá, a gente faz uma limonada).
 
-Atualmente, divido casa com uma amiga, faço faculdade e estou <sub> ✨disponível para contratação✨ </sub> =D
+Atualmente, divido casa com uma amiga, faço faculdade e estou...
+>[!TIP]
+>✨disponível para contratação✨ =D
 
 ## Sobre a Reprograma
 Eu conheci a <sub> Reprograma </sub> pelo instagram, me inscrevi algumas vezes e essa é minha primeira oportunidade qual me sinto muito grata. É estimulante poder vivenciar essa experiência em um núcleo tão diverso de pessoas como eu. Desejo aprender com a ajuda das prof.'s, pois é a primeira vez que faço um curso de programação com alguéns para me instruir e me comprometo em compartilhar tudo que aprender.
