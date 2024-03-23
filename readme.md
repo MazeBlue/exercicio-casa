@@ -19,6 +19,7 @@ Nesse projeto você encontrará o relato em `.txt` sobre:
 - quem sou;
 * meus objetivos;
 * como cheguei na reprograma;
+
 E essa é minha primeira atividade de casa. Bons aprendizados para todas nós durante essa jornada!
 
 
