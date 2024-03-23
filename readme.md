@@ -1,5 +1,5 @@
 # Sobre mim
-Eu me chamo '#000000 Pâmela', mas pode me chamar de <sub>Pam</sub>, tenho 28 anos e sou * *mãe de Helena Blue* *, somos de Manaus/Amazonas, mas atualmente vivemos em Florianópolis.
+Eu me chamo `#000000 Pâmela`, mas pode me chamar de <sub>Pam</sub>, tenho 28 anos e sou * *mãe de Helena Blue* *, somos de Manaus/Amazonas, mas atualmente vivemos em Florianópolis.
 > (uma longa & dramática história, uma mistura de picolé de limão & dos limões que a vida dá, a gente faz uma limonada).
 
 Atualmente, divido casa com uma amiga, faço faculdade e estou...
